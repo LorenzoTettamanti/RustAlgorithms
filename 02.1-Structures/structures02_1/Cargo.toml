@@ -1,9 +1,9 @@
 [package]
-name = "structures02_2"
+name = "structures02_1"
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
 [[bin]]
-name = "02_2-Structures"
+name = "02_1-Structures"
 path = "src/main.rs"
