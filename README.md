@@ -1,6 +1,6 @@
 # RustAlgorithms
 
-Esercizi di difficoltà crescente in Rust. 
+Esercizi di difficoltà crescente in Rust (Aggiornati settimanalmente). 
 Per aggiungere esercizi/risorse fare un fork della repository, aggiungere l'esercizio/link e inviare una pull request o aprire una issue.
 
 ## Risorse Utili
